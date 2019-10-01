@@ -7,7 +7,7 @@ from email.mime.text import MIMEText
 # Setup Reddit info
 reddit = praw.Reddit(client_id = '') # Your client id here
 	client_secret = ''				 # Your client secret here
-	username = ''
+	username = ''					 # Your username
 	password = ''					 # Your password
 	user_agent = 'FirstScript_1.1'
 	
